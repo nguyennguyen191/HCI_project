@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="15374000880229"
+    token="1846163295899502689"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="14936171628242"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/lskhanh/AndroidStudioProjects/MyApplication/dragndrop/build/outputs/apk/dragndrop-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="15374000880229"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>
